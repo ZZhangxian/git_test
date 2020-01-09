@@ -1,0 +1,29 @@
+
+
+y_device_vargroup_basic_info：         vargroup_id(修改)
+	                                   sen_dev_type_id(删除)
+
+									   
+
+									   
+动态配置项：
+           
+		  CAPTURE_TABLE 删除（完成）
+		  FIELDS 需要修改 （一半）
+		  TSP 要分通道
+
+		  
+		  
+静态配置项：
+    
+	      CAPTURE_TABLE_FIELDS 删除 （完成）
+
+		  
+		  
+质保：
+
+    1 固定设备中质保：300
+    2 移动设备质保:30
+    3 四气质保：3  （完成）
+    4 tvoc质保：3 （完成）
+    5 自然条件下质保 ：300
